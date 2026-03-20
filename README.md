@@ -10,17 +10,13 @@
 <img alt="🔥github Profile Summary Cards" width="98.3%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lucianaib0318&theme=github-dark-blue&hide_border=false%20%E5%81%87&short_numbers=false%20%E5%81%87&exclude_days=Sun" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=lucianaib0318&amp;theme=github-dark-blue" style="max-width: 100%;">
 
 # GitHub Trophies 🏆
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucianaib0318&count_private=true&show_icons=true&theme=synthwave" width="48%">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaib0318&layout=compact&langs_count=10&theme=highcontrast" width="48%">
-<br clear="both" />
-
-<table border="0" width="100%">
-  <tr align="center">
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=lucianaib0318&count_private=true&show_icons=true&theme=synthwave" width="100%" alt="LucianaiB's github stats" />
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr align="center" valign="middle">
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=lucianaib0318&count_private=true&show_icons=true&theme=synthwave" width="95%" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaib0318&layout=compact&theme=highcontrast" width="100%" alt="Top Langs" />
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaib0318&layout=compact&theme=highcontrast" width="95%" />
     </td>
   </tr>
 </table>
