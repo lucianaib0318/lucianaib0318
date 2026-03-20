@@ -11,11 +11,8 @@
 
 # GitHub Trophies 🏆
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucianaib0318&count_private=true&show_icons=true&theme=synthwave" width="48%">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaib0318&layout=donut" width="48%">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaib0318&layout=compact&langs_count=10&theme=highcontrast" width="48%">
 <br clear="both" />
-
-# GitHub Trophies 🏆
-<img alt="GitHub Trophies" width="98.3%" align="center" src="https://github-profile-trophy.vercel.app/?username=lucianaib0318&amp;theme=nord&amp;margin-w=5&amp;column=6&amp;row=1&amp;no-frame=true&amp;no-bg=false" data-canonical-src="https://github-profile-trophy.vercel.app/?username=lucianaib0318&amp;theme=nord&amp;margin-w=5&amp;column=6&amp;row=1&amp;no-frame=true&amp;no-bg=false" style="max-width: 100%;">
 
 # Contribution Graph 👀
 <img alt="GitHub Activity Graph" width="98.3%" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lucianaib0318&amp;bg_color=2e292e&amp;color=f5008f&amp;line=4c9e74&amp;point=096390&amp;area=true&amp;hide_border=true" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=lucianaib0318&amp;bg_color=2e292e&amp;color=f5008f&amp;line=4c9e74&amp;point=096390&amp;area=true&amp;hide_border=true" style="max-width: 100%;">
