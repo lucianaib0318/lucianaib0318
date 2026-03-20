@@ -11,7 +11,7 @@
 
 # GitHub Trophies 🏆
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucianaib0318&count_private=true&show_icons=true&theme=synthwave" width="48%">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaib0318&layout=compact&langs_count=10&theme=highcontrast" width="48%">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaib0318&layout=donut" width="48%">
 <br clear="both" />
 
 # GitHub Trophies 🏆
