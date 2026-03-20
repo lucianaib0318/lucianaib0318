@@ -10,9 +10,9 @@
 <img alt="🔥github Profile Summary Cards" width="98.3%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lucianaib0318&theme=github-dark-blue&hide_border=false%20%E5%81%87&short_numbers=false%20%E5%81%87&exclude_days=Sun" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=lucianaib0318&amp;theme=github-dark-blue" style="max-width: 100%;">
 
 # GitHub Trophies 🏆
-<img alt="LucianaiB's github stats" width="600" src="https://github-readme-stats.vercel.app/api?username=lucianaib0318&amp;count_private=true&amp;show_icons=true&amp;theme=synthwave" data-canonical-src="https://github-readme-stats.vercel.app/api?username=lucianaib0318&amp;count_private=true&amp;show_icons=true&amp;theme=synthwave" style="max-width: 100%;">
-
-<img alt="Top Langs" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaib0318&amp;layout=compact&amp;theme=highcontrast" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaib0318&amp;layout=compact&amp;theme=highcontrast" style="max-width: 100%;">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucianaib0318&count_private=true&show_icons=true&theme=synthwave" width="48%">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaib0318&layout=compact&langs_count=10&theme=highcontrast" width="48%">
+<br clear="both" />
 
 # GitHub Trophies 🏆
 <img alt="GitHub Trophies" width="98.3%" align="center" src="https://github-profile-trophy.vercel.app/?username=lucianaib0318&amp;theme=nord&amp;margin-w=5&amp;column=6&amp;row=1&amp;no-frame=true&amp;no-bg=false" data-canonical-src="https://github-profile-trophy.vercel.app/?username=lucianaib0318&amp;theme=nord&amp;margin-w=5&amp;column=6&amp;row=1&amp;no-frame=true&amp;no-bg=false" style="max-width: 100%;">
