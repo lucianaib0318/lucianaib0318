@@ -6,6 +6,15 @@
 - 📫 How to reach me: [liuwenchang2004@gmail.com](mailto:liuwenchang2004@gmail.com)
 
 # Contact 🌐
+🔥 中国热榜聚合器：[🔥 中国热榜聚合器](https://github.com/lucianaib0318/china-hot-ranks)，支持 35 个平台 的热榜抓取
+✨ 微信公众号发布助手：[✨ 微信公众号发布助手](https://github.com/lucianaib0318/wechat-publisher/blob/main/README_CN.md)，Markdown 一键转微信公众号草稿，直达草稿箱
+微信公众号选题助手：[微信公众号选题助手](https://github.com/lucianaib0318/wechat-topic-selector)，基于热榜内容拆解 + 用户方向匹配，智能生成爆款选题
+掘金自动化签到脚本：[掘金自动化签到脚本](https://github.com/lucianaib0318/juejin-checkin)，掘金自动化签到 - 每日自动签到 + 免费抽奖
+📕 小红书爆款文案生成工具：[📕 小红书爆款文案生成工具](https://github.com/lucianaib0318/xiaohongshu-master)，帖子生成 | 热点词库 | 违禁词检测
+📕 小红书笔记创作工具：[📕 小红书笔记创作工具](https://github.com/lucianaib0318/xhs-note-creator)，13 种设计风格 | 一键生成专业级笔记素材（内容撰写 + 图片卡片 + 发布）| 支持孟菲斯/酸性/蒸汽波/中国风等主题
+
+
+
 # GitHub Stats 📊
 <img alt="🔥github Profile Summary Cards" width="98.3%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lucianaib0318&theme=github-dark-blue&hide_border=false%20%E5%81%87&short_numbers=false%20%E5%81%87&exclude_days=Sun" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=lucianaib0318&amp;theme=github-dark-blue" style="max-width: 100%;">
 
