@@ -14,9 +14,7 @@
 
 掘金自动化签到脚本：[掘金自动化签到脚本](https://github.com/lucianaib0318/juejin-checkin)，掘金自动化签到 - 每日自动签到 + 免费抽奖
 
-📕 小红书爆款文案生成工具：[📕 小红书爆款文案生成工具](https://github.com/lucianaib0318/xiaohongshu-master)，帖子生成 | 热点词库 | 违禁词检测
-
-📕 小红书笔记创作工具：[📕 小红书笔记创作工具](https://github.com/lucianaib0318/xhs-note-creator)，13 种设计风格 | 一键生成专业级笔记素材（内容撰写 + 图片卡片 + 发布）| 支持孟菲斯/酸性/蒸汽波/中国风等主题
+📕 小红书爆款文案生成工具：[📕 小红书爆款文案生成工具](https://github.com/lucianaib0318/xiaohongshu-master)，帖子生成 | 热点词库 | 违禁词检测 | 13 种设计风格 | 一键生成专业级笔记素材（内容撰写 + 图片卡片 + 发布）| 支持孟菲斯/酸性/蒸汽波/中国风等主题
 
 
 
