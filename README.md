@@ -21,18 +21,6 @@
 # GitHub Stats 📊
 <img alt="🔥github Profile Summary Cards" width="98.3%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lucianaib0318&theme=github-dark-blue&hide_border=false%20%E5%81%87&short_numbers=false%20%E5%81%87&exclude_days=Sun" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=lucianaib0318&amp;theme=github-dark-blue" style="max-width: 100%;">
 
-# GitHub Trophies 🏆
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr align="center" valign="middle">
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=lucianaib0318&count_private=true&show_icons=true&theme=synthwave" width="95%" />
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaib0318&layout=compact&theme=highcontrast" width="95%" />
-    </td>
-  </tr>
-</table>
-
 # Contribution Graph 👀
 <img alt="GitHub Activity Graph" width="98.3%" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lucianaib0318&amp;bg_color=2e292e&amp;color=f5008f&amp;line=4c9e74&amp;point=096390&amp;area=true&amp;hide_border=true" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=lucianaib0318&amp;bg_color=2e292e&amp;color=f5008f&amp;line=4c9e74&amp;point=096390&amp;area=true&amp;hide_border=true" style="max-width: 100%;">
 
