@@ -6,6 +6,8 @@
 - 📫 How to reach me: [liuwenchang2004@gmail.com](mailto:liuwenchang2004@gmail.com)
 
 # Contact 🌐
+🌍 GeoMind：[GeoMind](https://github.com/lucianaib0318/GeoMind)基于飞书 CLI + 腾讯位置的科研与产业地理情报可视化 Skill
+
 🔥 中国热榜聚合器：[🔥 中国热榜聚合器](https://github.com/lucianaib0318/china-hot-ranks)，支持 35 个平台 的热榜抓取
 
 ✨ 微信公众号发布助手：[✨ 微信公众号发布助手](https://github.com/lucianaib0318/wechat-publisher/blob/main/README_CN.md)，Markdown 一键转微信公众号草稿，直达草稿箱
